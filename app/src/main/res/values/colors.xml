@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0E0E0F</color>
+    <color name="sf">#17171A</color>
+    <color name="sf2">#1F1F23</color>
+    <color name="sf3">#28282D</color>
+    <color name="sheet">#1B1B1F</color>
+    <color name="ln">#2E2E34</color>
+    <color name="ln2">#3A3A41</color>
+    <color name="ink">#F2EFE8</color>
+    <color name="mut">#8E8B84</color>
+    <color name="paper">#EFE6D2</color>
+    <color name="danger">#D9534F</color>
+    <color name="scrim">#99000000</color>
+    <color name="ic_bg">#141414</color>
+</resources>
